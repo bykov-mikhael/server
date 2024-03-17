@@ -1,0 +1,9 @@
+#clang
+*.cache*
+*.clang-format
+#cmake (gcc)
+*build*
+#vscode
+*bin*
+*vscode*
+*workspace*
